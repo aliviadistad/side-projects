@@ -1,0 +1,5 @@
+requests
+beautifulsoup4
+
+
+make sure you have these installed for it to run properly.
